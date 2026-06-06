@@ -4,8 +4,7 @@ A modern and responsive personal portfolio website built to showcase my projects
 
 ## Live Demo
 
-portfolio-website-phi-opal-89.vercel.app
-
+https://portfolio-website-phi-opal-89.vercel.app
 ## About
 
 This portfolio serves as my professional digital presence, highlighting my journey as a software developer, the projects I have built, and the technologies I work with.
