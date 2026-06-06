@@ -1,17 +1,64 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built to showcase my projects, technical skills, certifications, achievements, and professional experience.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio serves as my professional digital presence, highlighting my journey as a software developer, the projects I have built, and the technologies I work with.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design for desktop, tablet, and mobile devices
+- Professional introduction and profile section
+- Skills and technology showcase
+- Project portfolio with details
+- Certifications and achievements
+- Contact section for networking and opportunities
+- Smooth and modern user interface
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# portfolio-website
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Vaidehis3007/portfolio-website.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## Live Website
+
+Add your deployed website link here.
+
+## Author
+
+**Vaidehi Sahu**
+
+Aspiring Software Engineer passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
+
+GitHub: https://github.com/Vaidehis3007
+LinkedIn: Add your LinkedIn profile link here
