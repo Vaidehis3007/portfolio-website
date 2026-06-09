@@ -5,7 +5,7 @@ export const NAV_ITEMS = [
 ]
 
 export const RESUME_URL =
-  "https://drive.google.com/file/d/1sd2dv3Uhm3nxBt0aqS8lHTuB-mCfG153/view?usp=sharing"
+  "https://drive.google.com/file/d/1Hsw0Q0_KEcEfWA8gdyRsXXE3RDtbPAZt/view?usp=sharing"
 
 export const MOBILE_RESUME_URL =
-  "https://drive.google.com/file/d/1p5EdGqXp0d7rgkDJuxA0g5SFvSMxTyXp/view?usp=sharing"
+  "https://drive.google.com/file/d/1Hsw0Q0_KEcEfWA8gdyRsXXE3RDtbPAZt/view?usp=sharing"
